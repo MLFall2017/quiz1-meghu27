@@ -1,0 +1,9 @@
+If V is a subspace of Rn and S is an orthogonal set which spans V (and hence is a basis for V ), 
+S is called an orthogonal basis for V.
+
+Now, if {v1, . . ., vi } is an orthogonal basis for V and v is any element of V, we know that we can write
+v = c1 v1 + · · · + ci vi
+
+v·vi = ci ||vi ||2      ("vi" squared as denominator)   and therefore 
+
+ci = v· vi / ||vi ||2      ("vi" squared as denominator)
